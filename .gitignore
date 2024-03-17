@@ -1,5 +1,6 @@
 .conda/
 .vscode/
 tfmodel/
+data/
 
 .env
