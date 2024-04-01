@@ -2,5 +2,6 @@
 .vscode/
 tfmodel/
 data/
+datasets/
 
 .env
