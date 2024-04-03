@@ -3,5 +3,7 @@
 tfmodel/
 data/
 datasets/
+model/generator/
+model/discriminator/
 
 .env
