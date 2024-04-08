@@ -2,7 +2,7 @@
 .vscode/
 tfmodel/
 data/
-datasets/
+datasets/CICIoT2023/
 model/generator/
 model/discriminator/
 
