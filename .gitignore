@@ -2,8 +2,12 @@
 .vscode/
 tfmodel/
 data/
+datasets/
 datasets/CICIoT2023/
+datasets/cornell/
+datasets/cornell movie-dialogs corpus/
 model/generator/
 model/discriminator/
+model/
 
 .env
